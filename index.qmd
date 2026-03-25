@@ -1,5 +1,5 @@
 ---
-title: "✏️ Meghan Howell's Website!"
+title: "✏️ Meghan Howell's Website"
 ---
 
 Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.
