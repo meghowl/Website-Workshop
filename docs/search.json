@@ -11,7 +11,7 @@
     "href": "aboutme.html",
     "title": "About Me",
     "section": "",
-    "text": "✏️ Write your bio here — who you are, what you study, and what you care about.\n\n✏️ My Resume\n\nTo view more information about my projects, please visit the Projects tab.\n\nContact Information:\n\nEmail: ✏️ youremail@gmail.com\nLinkedIn: ✏️ Your Name"
+    "text": "✏️ Write your bio here — who you are, what you study, and what you care about.\n\n✏️ My Resume\n\nTo view more information about my projects, please visit the Projects tab.\n\nContact Information:\n\nEmail: ✏️ meghanphowell@gmail.com\nLinkedIn: ✏️ Meghan Howell"
   },
   {
     "objectID": "proj.html#project-title",
@@ -37,8 +37,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "✏️ Your Name",
+    "title": "✏️ Meghan Howell’s Website",
     "section": "",
     "text": "Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.\n\nVisit the About Me tab to learn more about my background and how to get in touch.\nVisit the Projects tab to see examples of my work."
+  },
+  {
+    "objectID": "sports.html",
+    "href": "sports.html",
+    "title": "sports",
+    "section": "",
+    "text": "Sports"
   }
 ]
